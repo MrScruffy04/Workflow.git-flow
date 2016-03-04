@@ -1,0 +1,2 @@
+var x = 'hotel';
+var y = 'india';
